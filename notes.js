@@ -1,3 +1,5 @@
+// Contains all methods required for note taking
+
 const fs = require('fs')
 const chalk = require('chalk')
 
